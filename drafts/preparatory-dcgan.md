@@ -1,4 +1,10 @@
-# preparatory - DCGAN
+---
+description: >-
+  Looking into a DCGAN as a means to generate novel images based on an existing
+  dataset.
+---
+
+# Preparatory - DCGAN
 
 ## DCGAN
 

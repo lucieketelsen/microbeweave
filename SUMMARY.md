@@ -11,7 +11,7 @@
 * [performance evaluation](performance-evaluation.md)
 * [impact of findings](impact-of-findings.md)
 * [recommendations and next steps](recommendations-and-next-steps.md)
-* [drafts](drafts/README.md)
+* [Preparatory Explorations](drafts/README.md)
   * [Preparatory - Deeptrack](drafts/preparatory-deeptrack.md)
-  * [preparatory - DCGAN](drafts/preparatory-dcgan.md)
+  * [Preparatory - DCGAN](drafts/preparatory-dcgan.md)
 
