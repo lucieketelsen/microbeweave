@@ -1,6 +1,6 @@
 # Preparatory - Deeptrack
 
-DeepTrack is a comprehensive deep learning framework for digital microscopy. DT provides tools to create physical simulations of customizable optical systems, to generate and train neural network models, and to analyze experimental data.
+[DeepTrack](https://github.com/softmatterlab/DeepTrack/) is a comprehensive deep learning framework for digital microscopy. DT provides tools to create physical simulations of customizable optical systems, to generate and train neural network models, and to analyze experimental data.
 
 DeepTrack 2.0 requires at least python 3.6
 

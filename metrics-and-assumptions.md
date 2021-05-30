@@ -1,2 +1,2 @@
-# metrics and assumptions
+# Metrics and assumptions
 

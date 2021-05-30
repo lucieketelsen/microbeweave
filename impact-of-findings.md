@@ -1,2 +1,2 @@
-# impact of findings
+# Impact of findings
 

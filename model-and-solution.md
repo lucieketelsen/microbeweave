@@ -1,17 +1,4 @@
-# model and solution
-
-## models
-
-Numerous attempts were made to create a model suitable to the learning problem. Not all were successful however attempts at setting up environments and implementations were valuable learning experiences. 
-
-The attempts were:
-
-* u-gat-it
-* cycleGAN
-* GAN \(Keras\)
-* VAE
-* transfer learning with keras
-* deeptrack\(v2\)
+# Model and solution
 
 ### UGATIT
 
