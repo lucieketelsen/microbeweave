@@ -4,7 +4,7 @@ description: Evaluation of YSMR tracking on time lapse microscopy capture
 
 # Performance evaluation
 
-![](.gitbook/assets/microb_vida_bac_run_overview.png)
+![cell tracking](.gitbook/assets/microb_vida_bac_run_overview.png)
 
 ![](.gitbook/assets/microb_vida_displacement.png)
 
